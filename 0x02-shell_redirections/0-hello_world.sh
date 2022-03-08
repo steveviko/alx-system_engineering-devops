@@ -1,2 +1,0 @@
-#!/bin/bash
-printf "Hellow, World\n"
